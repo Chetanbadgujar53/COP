@@ -3,7 +3,6 @@
 
 
 
-/*
 
 
 typedef enum {TRAINING,PLACEMENT,ADMIN}DEPT;
@@ -18,7 +17,7 @@ int main(void)
     return 0;
 }
 
-*/
+
 
 
 
@@ -155,7 +154,7 @@ int main(void)
 }
 */
 
-
+/*
 
 enum colors{RED,GREY,BLUE,GREEN}; //declaration of enum 
 //user defined datatype
@@ -174,3 +173,4 @@ int main(void)
     printf("Green Value = %d \n",GREEN);
     return 0;
 }
+*/
