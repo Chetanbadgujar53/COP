@@ -1,6 +1,6 @@
 #include<stdio.h>
 #define test(a,b) a##b //stringizing
-/*
+
 int main(void)
 {
     int a=10,b=40,ab=300;
@@ -10,7 +10,7 @@ int main(void)
     //printf("\n %d",ab);
     return 0;
 }
-*/
+
 /*
 
 //# indeicates string
@@ -88,12 +88,7 @@ int main(void)
 
 #define PI 3.14
 
-//Macro name is PI // Macro with zero number of arguments
-//definition is having 3.14 value
 
-
-//preprocessor directive
-//replacable text : Macro 
 
 int main(void)
 {
